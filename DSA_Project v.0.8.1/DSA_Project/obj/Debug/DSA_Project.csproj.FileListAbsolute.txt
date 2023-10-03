@@ -132,3 +132,23 @@ D:\Document\University\BSE 3B\DSA Data Structure and Algorithme\DSA_Project v.0.
 D:\Document\University\BSE 3B\DSA Data Structure and Algorithme\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.CopyComplete
 D:\Document\University\BSE 3B\DSA Data Structure and Algorithme\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.exe
 D:\Document\University\BSE 3B\DSA Data Structure and Algorithme\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.pdb
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\bin\Debug\DSA_Project_DB.mdf
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\bin\Debug\DSA_Project_DB_log.ldf
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\bin\Debug\DSA_Project.exe.config
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\bin\Debug\DSA_Project.exe
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\bin\Debug\DSA_Project.pdb
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.AssemblyReference.cache
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.SuggestedBindingRedirects.cache
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.Form1.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.FormLogin.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.FormRegister.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.FormStudent.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.Forms.Assignment.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.Forms.CourseOutline.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.Forms.LectureNotes.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.Properties.Resources.resources
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.GenerateResource.cache
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.CoreCompileInputs.cache
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.csproj.CopyComplete
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.exe
+D:\Document\Github\Learning-Managment-System\DSA_Project v.0.8.1\DSA_Project\obj\Debug\DSA_Project.pdb
