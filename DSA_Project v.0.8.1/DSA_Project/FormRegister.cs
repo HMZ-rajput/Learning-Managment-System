@@ -14,7 +14,8 @@ namespace DSA_Project
 {
     public partial class FormRegister : Form
     {
-        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\Documents\\University\\BSE 3B\\DSA Data Structure and Algorithme\\Project\\DSA_Project v.0.8.1\\DSA_Project\\DSA_Project_DB.mdf\";Integrated Security=True");
+        //D:\Document\Github\\Learning-Managment-System\\DSA_Project v.0.8.1\\DSA_Project\\DSA_Project_DB.mdf\
+        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\Document\\Github\\\\Learning-Managment-System\\\\DSA_Project v.0.8.1\\\\DSA_Project\\\\DSA_Project_DB.mdf\"; Integrated Security=True");
 
         public FormRegister()
         {
